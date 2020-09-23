@@ -9,4 +9,5 @@ const MoviesPage = ({ match, movies }) => (
   </div>
 )
 
+
 export default MoviesPage
